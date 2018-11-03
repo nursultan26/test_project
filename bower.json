@@ -1,0 +1,21 @@
+{
+  "name": "test1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "nursultan26 <nurik_kgn1@mail.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

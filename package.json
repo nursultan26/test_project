@@ -1,0 +1,32 @@
+{
+  "name": "test1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "express": "~4.16.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1",
+    "http-errors": "~1.6.2",
+    "imagemin": "^6.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "morgan": "~1.9.0",
+    "npm": "^6.4.1",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
